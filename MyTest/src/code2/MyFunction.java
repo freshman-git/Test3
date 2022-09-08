@@ -8,7 +8,7 @@ public class MyFunction {
     }
     public int fun2(){
         Add a = new Add();
-        int res = a.add(1, 1);
+        int res = a.add(1, 2);
         return res;
     }
 }
